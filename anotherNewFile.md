@@ -4,7 +4,7 @@
 * This species can grow up to 82 feet tall
 
 
-####Copyright (c) 2017 Bonnie Kwong
+Copyright (c) 2017 Bonnie Kwong
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
