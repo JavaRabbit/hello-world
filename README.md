@@ -4,3 +4,7 @@
 
 * My name is bonnie
 * I live in California, and I like palm trees. Did you know they grow only between 44 northern latitude and 44 southern latitude?
+
+
+
+#### Copyright (c) 2017 Bonnie Kwong
